@@ -16,6 +16,7 @@ In UserRepository, declare the following methods that help to find all user and 
 
 ```
 Your answer
+It is used to insert sample data into the database when the application starts. Spring Boot automatically runs `data.sql` to populate tables with initial data, which is useful for testing or development.
 ```
 
 ## User Reservice - Complete the code
